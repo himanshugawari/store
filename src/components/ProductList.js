@@ -8,7 +8,7 @@ const ProductList = () => {
     <Fragment>
       <div className='py-5'>
         <div className='container'>
-          <div className='row'>
+          <div className='row '>
             <Title name='our' title='products' />
             <div className='row'>
               <ProductConsumer>
